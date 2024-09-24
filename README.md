@@ -49,7 +49,7 @@ Online courses, practice exams, and study guides (I personally used study guide 
 
 AWS forums and online communities
 
-Tips for Success:
+**Tips for Success:**
 
 **Understand the Exam Format:** Familiarize yourself with multiple-choice question types and time management strategies.
 **Practice with Mock Exams:** Take practice exams from legit sites like itexamshub to assess your knowledge and identify areas for improvement.
